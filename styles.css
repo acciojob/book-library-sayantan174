@@ -17,6 +17,7 @@ body{
 }
 .author + div{
   background-color: #2ecc71;
+	color: rgb(255, 255, 255);
 }
 h1{
 	text-align:center;
