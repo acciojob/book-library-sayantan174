@@ -15,6 +15,9 @@ body{
 .author{
   color: #777777;
 }
-.author + p{
+.author + div{
   background-color: #2ecc71;
+}
+h1{
+	text-align:center;
 }
